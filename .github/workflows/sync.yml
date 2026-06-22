@@ -1,17 +1,32 @@
 name: Sync Leetcode
 
 on:
-  workflow_dispatch: 
+  workflow_dispatch: # Allows you to run it manually with a click
   schedule:
     - cron: "0 8 * * 6" # Runs automatically once a week
+
+permissions:
+  contents: write # Grants permission to update the README file
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Sync
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Sync Code from LeetCode
         uses: joshcai/leetcode-sync@v1.5
         with:
           github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          verbose: true
+
+      - name: Auto-Generate Topic Table README
+        uses: dennisvash/leetcode-action@v1.2
+        with:
+          github-token: ${{ github.token }}
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          filter-duplicate-solutions: true
+          update-readme: true
