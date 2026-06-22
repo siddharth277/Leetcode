@@ -1,12 +1,14 @@
 name: Sync Leetcode
 
 on:
-  workflow_dispatch: # Allows you to run it manually with a click
-  schedule:
-    - cron: "0 8 * * 6" # Runs automatically once a week
+  push:
+    branches:
+      - main     # Triggers the dashboard generation on every push to main
+      - master   # Triggers if your main branch is named master
+  workflow_dispatch: # Keeps the manual button just in case
 
 permissions:
-  contents: write # Grants permission to update the README file
+  contents: write
 
 jobs:
   build:
