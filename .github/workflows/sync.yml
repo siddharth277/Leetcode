@@ -3,9 +3,8 @@ name: Sync Leetcode
 on:
   push:
     branches:
-      - main     # Triggers the dashboard generation on every push to main
-      - master   # Triggers if your main branch is named master
-  workflow_dispatch: # Keeps the manual button just in case
+      - main
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -25,10 +24,11 @@ jobs:
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           verbose: true
 
-      - name: Auto-Generate Topic Table README
-        uses: dennisvash/leetcode-action@v1.2
+      - name: Update Repository Index
+        uses: gautamkrishnar/todo-to-issue-action@v2024.11.1
+        continue-on-error: true # Ensures this step never crashes your script
+
+      - name: Auto-Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github-token: ${{ github.token }}
-          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          filter-duplicate-solutions: true
-          update-readme: true
+          commit_message: "docs: update leetcode solutions table [skip ci]"
