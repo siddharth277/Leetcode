@@ -5,9 +5,10 @@ import time
 import sys
 from collections import defaultdict
 
-USERNAME = os.environ.get("LEETCODE_USERNAME")
-SESSION = os.environ.get("LEETCODE_SESSION")
-CSRF = os.environ.get("LEETCODE_CSRF_TOKEN")
+# Change these lines at the top:
+SESSION = os.environ.get("LEETCODE_SESSION", "").strip()
+CSRF = os.environ.get("LEETCODE_CSRF_TOKEN", "").strip()
+USERNAME = os.environ.get("LEETCODE_USERNAME", "").strip()
 
 if not all([USERNAME, SESSION, CSRF]):
     print("ERROR: Missing environment variables!")
