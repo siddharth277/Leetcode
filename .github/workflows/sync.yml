@@ -24,11 +24,8 @@ jobs:
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           verbose: true
 
-      - name: Update Repository Index
-        uses: gautamkrishnar/todo-to-issue-action@v2024.11.1
-        continue-on-error: true # Ensures this step never crashes your script
-
-      - name: Auto-Commit Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Auto-Categorize into README Topics Table
+        uses: kamyu104/leetcode-badge@v2.2.0
         with:
-          commit_message: "docs: update leetcode solutions table [skip ci]"
+          github-token: ${{ github.token }}
+          user-name: 'siddharthshukla17' # Your LeetCode username
