@@ -224,6 +224,7 @@
 | [0412-fizz-buzz](https://github.com/siddharth277/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/siddharth277/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/siddharth277/Leetcode/tree/master/0509-fibonacci-number) |
+| [0593-valid-square](https://github.com/siddharth277/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/siddharth277/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddharth277/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/siddharth277/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -397,4 +398,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/siddharth277/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0593-valid-square](https://github.com/siddharth277/Leetcode/tree/main/0593-valid-square/) | Medium |
 <!---LeetCode Topics End-->
