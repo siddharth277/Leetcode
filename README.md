@@ -216,6 +216,7 @@
 | [0258-add-digits](https://github.com/siddharth277/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/siddharth277/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/siddharth277/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/siddharth277/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/siddharth277/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/siddharth277/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/siddharth277/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -388,4 +389,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/siddharth277/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/siddharth277/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/siddharth277/Leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
