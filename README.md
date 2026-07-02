@@ -67,6 +67,7 @@
 | [2951-find-the-peaks](https://github.com/siddharth277/Leetcode/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/siddharth277/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/siddharth277/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siddharth277/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3477-fruits-into-baskets-ii](https://github.com/siddharth277/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -237,6 +238,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/siddharth277/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3099-harshad-number](https://github.com/siddharth277/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
