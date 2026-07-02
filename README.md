@@ -69,6 +69,7 @@
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/siddharth277/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/siddharth277/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siddharth277/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3477-fruits-into-baskets-ii](https://github.com/siddharth277/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/siddharth277/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -240,6 +241,7 @@
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/siddharth277/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3099-harshad-number](https://github.com/siddharth277/Leetcode/tree/main/3099-harshad-number/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
 | Problem Name | Difficulty |
