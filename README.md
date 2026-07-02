@@ -65,6 +65,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/siddharth277/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2942-find-words-containing-character](https://github.com/siddharth277/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/siddharth277/Leetcode/tree/master/2951-find-the-peaks) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/siddharth277/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siddharth277/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3477-fruits-into-baskets-ii](https://github.com/siddharth277/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -183,6 +184,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/siddharth277/Leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/siddharth277/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/siddharth277/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -232,11 +234,13 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/siddharth277/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharth277/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddharth277/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
