@@ -242,6 +242,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/siddharth277/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3099-harshad-number](https://github.com/siddharth277/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -292,6 +293,7 @@
 | [0067-add-binary](https://github.com/siddharth277/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/siddharth277/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/siddharth277/Leetcode/tree/master/0412-fizz-buzz) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/siddharth277/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/siddharth277/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/siddharth277/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -413,6 +415,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/siddharth277/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
