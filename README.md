@@ -238,6 +238,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/siddharth277/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharth277/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2485-find-the-pivot-integer](https://github.com/siddharth277/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/siddharth277/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
@@ -267,6 +268,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/siddharth277/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/siddharth277/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
