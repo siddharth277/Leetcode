@@ -238,6 +238,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/siddharth277/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharth277/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/siddharth277/Leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/siddharth277/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
@@ -424,4 +425,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0593-valid-square](https://github.com/siddharth277/Leetcode/tree/main/0593-valid-square/) | Medium |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/siddharth277/Leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 <!---LeetCode Topics End-->
