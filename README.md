@@ -42,6 +42,7 @@
 | [0414-third-maximum-number](https://github.com/siddharth277/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/siddharth277/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/siddharth277/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/siddharth277/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siddharth277/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddharth277/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -233,6 +234,7 @@
 | [0507-perfect-number](https://github.com/siddharth277/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/siddharth277/Leetcode/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/siddharth277/Leetcode/tree/main/0593-valid-square/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/siddharth277/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/siddharth277/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddharth277/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -329,6 +331,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddharth277/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/siddharth277/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/siddharth277/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
