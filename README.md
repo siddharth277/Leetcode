@@ -55,6 +55,7 @@
 | [1732-find-the-highest-altitude](https://github.com/siddharth277/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddharth277/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth277/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddharth277/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/siddharth277/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -238,6 +239,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddharth277/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/siddharth277/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharth277/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth277/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2413-smallest-even-multiple](https://github.com/siddharth277/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/siddharth277/Leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
@@ -263,6 +265,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/siddharth277/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth277/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/siddharth277/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
