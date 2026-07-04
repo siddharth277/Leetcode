@@ -74,6 +74,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siddharth277/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3477-fruits-into-baskets-ii](https://github.com/siddharth277/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/siddharth277/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/siddharth277/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/siddharth277/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -169,6 +170,7 @@
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +257,7 @@
 | [3099-harshad-number](https://github.com/siddharth277/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -342,6 +345,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/siddharth277/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siddharth277/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
