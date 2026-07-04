@@ -103,6 +103,7 @@
 | [0367-valid-perfect-square](https://github.com/siddharth277/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/siddharth277/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/siddharth277/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/siddharth277/Leetcode/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0704-binary-search](https://github.com/siddharth277/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siddharth277/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddharth277/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -238,6 +239,7 @@
 | [0593-valid-square](https://github.com/siddharth277/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/siddharth277/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/siddharth277/Leetcode/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0728-self-dividing-numbers](https://github.com/siddharth277/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddharth277/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1154-day-of-the-year](https://github.com/siddharth277/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
