@@ -164,6 +164,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/siddharth277/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/siddharth277/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2951-find-the-peaks](https://github.com/siddharth277/Leetcode/tree/master/2951-find-the-peaks) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -257,6 +258,7 @@
 | [2469-convert-the-temperature](https://github.com/siddharth277/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/siddharth277/Leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/siddharth277/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/siddharth277/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/siddharth277/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
