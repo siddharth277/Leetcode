@@ -48,6 +48,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddharth277/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
+| [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddharth277/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddharth277/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -169,6 +170,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/siddharth277/Leetcode/tree/master/0011-container-with-most-water) |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
+| [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -241,6 +243,7 @@
 | [0633-sum-of-square-numbers](https://github.com/siddharth277/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/siddharth277/Leetcode/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0728-self-dividing-numbers](https://github.com/siddharth277/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddharth277/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1154-day-of-the-year](https://github.com/siddharth277/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddharth277/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -339,6 +342,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
+| [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddharth277/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
