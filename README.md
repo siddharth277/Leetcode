@@ -166,6 +166,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/siddharth277/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [2427-number-of-common-factors](https://github.com/siddharth277/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/siddharth277/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2951-find-the-peaks](https://github.com/siddharth277/Leetcode/tree/master/2951-find-the-peaks) |
 ## Greedy
@@ -259,6 +260,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/siddharth277/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/siddharth277/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/siddharth277/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/siddharth277/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/siddharth277/Leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/siddharth277/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -288,6 +290,7 @@
 | [1952-three-divisors](https://github.com/siddharth277/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth277/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/siddharth277/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/siddharth277/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
