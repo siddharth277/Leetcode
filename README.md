@@ -63,6 +63,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddharth277/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/siddharth277/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/siddharth277/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddharth277/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/siddharth277/Leetcode/tree/master/2540-minimum-common-value) |
@@ -261,6 +262,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/siddharth277/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/siddharth277/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/siddharth277/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/siddharth277/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/siddharth277/Leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/siddharth277/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
