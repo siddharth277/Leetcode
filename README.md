@@ -47,6 +47,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siddharth277/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddharth277/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0908-smallest-range-i](https://github.com/siddharth277/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/siddharth277/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -245,6 +246,7 @@
 | [0633-sum-of-square-numbers](https://github.com/siddharth277/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/siddharth277/Leetcode/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0728-self-dividing-numbers](https://github.com/siddharth277/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0908-smallest-range-i](https://github.com/siddharth277/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddharth277/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1154-day-of-the-year](https://github.com/siddharth277/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
