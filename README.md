@@ -49,6 +49,7 @@
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/siddharth277/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddharth277/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddharth277/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -346,6 +347,7 @@
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/siddharth277/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddharth277/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
