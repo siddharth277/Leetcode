@@ -203,6 +203,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/siddharth277/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/siddharth277/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3945-digit-frequency-score](https://github.com/siddharth277/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +278,7 @@
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siddharth277/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3945-digit-frequency-score](https://github.com/siddharth277/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
