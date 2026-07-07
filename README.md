@@ -276,6 +276,7 @@
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siddharth277/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
