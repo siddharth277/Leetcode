@@ -254,6 +254,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddharth277/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1154-day-of-the-year](https://github.com/siddharth277/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
+| [1185-day-of-the-week](https://github.com/siddharth277/Leetcode/tree/main/1185-day-of-the-week/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddharth277/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/siddharth277/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharth277/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
