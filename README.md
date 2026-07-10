@@ -78,6 +78,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/siddharth277/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siddharth277/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/siddharth277/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/siddharth277/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/siddharth277/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -276,6 +277,7 @@
 | [3099-harshad-number](https://github.com/siddharth277/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/siddharth277/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siddharth277/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
