@@ -267,6 +267,7 @@
 | [1837-sum-of-digits-in-base-k](https://github.com/siddharth277/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1952-three-divisors](https://github.com/siddharth277/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth277/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/siddharth277/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/siddharth277/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -344,6 +345,7 @@
 | [0067-add-binary](https://github.com/siddharth277/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/siddharth277/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/siddharth277/Leetcode/tree/master/0412-fizz-buzz) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/siddharth277/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/siddharth277/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
