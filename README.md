@@ -81,6 +81,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siddharth277/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/siddharth277/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharth277/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/siddharth277/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/siddharth277/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -217,6 +218,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddharth277/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharth277/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +293,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/siddharth277/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharth277/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/siddharth277/Leetcode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -355,6 +358,7 @@
 | [0412-fizz-buzz](https://github.com/siddharth277/Leetcode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharth277/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/siddharth277/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/siddharth277/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/siddharth277/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
