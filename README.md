@@ -294,6 +294,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/siddharth277/Leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/siddharth277/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/siddharth277/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/siddharth277/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
