@@ -312,6 +312,7 @@
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddharth277/Leetcode/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/siddharth277/Leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/siddharth277/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharth277/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/siddharth277/Leetcode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
@@ -454,6 +455,7 @@
 | [2490-circular-sentence](https://github.com/siddharth277/Leetcode/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/siddharth277/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/siddharth277/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3227-vowels-game-in-a-string](https://github.com/siddharth277/Leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/siddharth277/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/siddharth277/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -513,11 +515,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/siddharth277/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/siddharth277/Leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/siddharth277/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/siddharth277/Leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
