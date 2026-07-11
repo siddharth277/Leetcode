@@ -190,6 +190,7 @@
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siddharth277/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/siddharth277/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -281,6 +282,7 @@
 | [1837-sum-of-digits-in-base-k](https://github.com/siddharth277/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1952-three-divisors](https://github.com/siddharth277/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth277/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siddharth277/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/siddharth277/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -404,6 +406,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddharth277/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/siddharth277/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siddharth277/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/siddharth277/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/siddharth277/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
