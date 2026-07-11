@@ -317,6 +317,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharth277/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/siddharth277/Leetcode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/siddharth277/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3648-minimum-sensors-to-cover-grid](https://github.com/siddharth277/Leetcode/tree/main/3648-minimum-sensors-to-cover-grid/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siddharth277/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
