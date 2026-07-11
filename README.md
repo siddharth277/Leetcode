@@ -304,6 +304,7 @@
 | [2729-check-if-the-number-is-fascinating](https://github.com/siddharth277/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/siddharth277/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/siddharth277/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/siddharth277/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/siddharth277/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
