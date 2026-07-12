@@ -66,6 +66,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddharth277/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth277/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1995-count-special-quadruplets](https://github.com/siddharth277/Leetcode/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddharth277/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/siddharth277/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -184,6 +185,7 @@
 | [1534-count-good-triplets](https://github.com/siddharth277/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/siddharth277/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1952-three-divisors](https://github.com/siddharth277/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [1995-count-special-quadruplets](https://github.com/siddharth277/Leetcode/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/siddharth277/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/siddharth277/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2427-number-of-common-factors](https://github.com/siddharth277/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
@@ -223,6 +225,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/siddharth277/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/siddharth277/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1995-count-special-quadruplets](https://github.com/siddharth277/Leetcode/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/siddharth277/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/siddharth277/Leetcode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/siddharth277/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
