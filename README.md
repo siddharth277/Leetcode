@@ -69,6 +69,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/siddharth277/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/siddharth277/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/siddharth277/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddharth277/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/siddharth277/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -221,6 +222,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2094-finding-3-digit-even-numbers](https://github.com/siddharth277/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/siddharth277/Leetcode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/siddharth277/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/siddharth277/Leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/siddharth277/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/siddharth277/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
@@ -428,6 +430,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siddharth277/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/siddharth277/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/siddharth277/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/siddharth277/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siddharth277/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
