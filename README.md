@@ -303,6 +303,7 @@
 | [1518-water-bottles](https://github.com/siddharth277/Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/siddharth277/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/siddharth277/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/siddharth277/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/siddharth277/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/siddharth277/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/siddharth277/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
