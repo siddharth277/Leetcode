@@ -293,6 +293,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/siddharth277/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/siddharth277/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/siddharth277/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1518-water-bottles](https://github.com/siddharth277/Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/siddharth277/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/siddharth277/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/siddharth277/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
@@ -394,6 +395,7 @@
 | [0258-add-digits](https://github.com/siddharth277/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/siddharth277/Leetcode/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharth277/Leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
+| [1518-water-bottles](https://github.com/siddharth277/Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddharth277/Leetcode/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
