@@ -324,6 +324,7 @@
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/siddharth277/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3099-harshad-number](https://github.com/siddharth277/Leetcode/tree/main/3099-harshad-number/) | Easy |
+| [3100-water-bottles-ii](https://github.com/siddharth277/Leetcode/tree/main/3100-water-bottles-ii/) | Medium |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddharth277/Leetcode/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
@@ -397,6 +398,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharth277/Leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [1518-water-bottles](https://github.com/siddharth277/Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [3100-water-bottles-ii](https://github.com/siddharth277/Leetcode/tree/main/3100-water-bottles-ii/) | Medium |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddharth277/Leetcode/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharth277/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
