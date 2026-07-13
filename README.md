@@ -300,6 +300,7 @@
 | [1512-number-of-good-pairs](https://github.com/siddharth277/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1518-water-bottles](https://github.com/siddharth277/Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/siddharth277/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/siddharth277/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/siddharth277/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/siddharth277/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/siddharth277/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
@@ -404,6 +405,7 @@
 | [0412-fizz-buzz](https://github.com/siddharth277/Leetcode/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharth277/Leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [1518-water-bottles](https://github.com/siddharth277/Leetcode/tree/main/1518-water-bottles/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/siddharth277/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3100-water-bottles-ii](https://github.com/siddharth277/Leetcode/tree/main/3100-water-bottles-ii/) | Medium |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddharth277/Leetcode/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
