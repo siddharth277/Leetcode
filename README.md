@@ -498,6 +498,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/siddharth277/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/siddharth277/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddharth277/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/siddharth277/Leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/siddharth277/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/siddharth277/Leetcode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2490-circular-sentence](https://github.com/siddharth277/Leetcode/tree/master/2490-circular-sentence) |
