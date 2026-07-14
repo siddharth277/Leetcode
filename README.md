@@ -207,6 +207,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siddharth277/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/siddharth277/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
+| [2578-split-with-minimum-sum](https://github.com/siddharth277/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -329,6 +330,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/siddharth277/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/siddharth277/Leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2578-split-with-minimum-sum](https://github.com/siddharth277/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/siddharth277/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/siddharth277/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/siddharth277/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -459,6 +461,7 @@
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/siddharth277/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/siddharth277/Leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [2578-split-with-minimum-sum](https://github.com/siddharth277/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/siddharth277/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siddharth277/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
