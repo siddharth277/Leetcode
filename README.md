@@ -204,6 +204,7 @@
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/siddharth277/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siddharth277/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/siddharth277/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
@@ -308,6 +309,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/siddharth277/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/siddharth277/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/siddharth277/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/siddharth277/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/siddharth277/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1952-three-divisors](https://github.com/siddharth277/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddharth277/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -494,6 +496,7 @@
 | [1154-day-of-the-year](https://github.com/siddharth277/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/siddharth277/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/siddharth277/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/siddharth277/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddharth277/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/siddharth277/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/siddharth277/Leetcode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
