@@ -316,6 +316,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/siddharth277/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siddharth277/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/siddharth277/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
+| [2169-count-operations-to-obtain-zero](https://github.com/siddharth277/Leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2235-add-two-integers](https://github.com/siddharth277/Leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -420,6 +421,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharth277/Leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [1518-water-bottles](https://github.com/siddharth277/Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/siddharth277/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/siddharth277/Leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/siddharth277/Leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3100-water-bottles-ii](https://github.com/siddharth277/Leetcode/tree/main/3100-water-bottles-ii/) | Medium |
