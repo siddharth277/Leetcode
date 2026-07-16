@@ -212,6 +212,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/siddharth277/Leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharth277/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/siddharth277/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/siddharth277/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/siddharth277/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/siddharth277/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
@@ -513,6 +514,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/siddharth277/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/siddharth277/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddharth277/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/siddharth277/Leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/siddharth277/Leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/siddharth277/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/siddharth277/Leetcode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
