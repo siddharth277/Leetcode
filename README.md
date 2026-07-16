@@ -46,6 +46,7 @@
 | [0485-max-consecutive-ones](https://github.com/siddharth277/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/siddharth277/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/siddharth277/Leetcode/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/siddharth277/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/siddharth277/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siddharth277/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -170,6 +171,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/siddharth277/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -202,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/siddharth277/Leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/siddharth277/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -455,6 +458,7 @@
 | [0414-third-maximum-number](https://github.com/siddharth277/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/siddharth277/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/siddharth277/Leetcode/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/siddharth277/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
