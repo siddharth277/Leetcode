@@ -45,6 +45,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharth277/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/siddharth277/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/siddharth277/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0506-relative-ranks](https://github.com/siddharth277/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/siddharth277/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siddharth277/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -249,6 +250,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddharth277/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/siddharth277/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharth277/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -452,6 +454,7 @@
 | [0389-find-the-difference](https://github.com/siddharth277/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/siddharth277/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/siddharth277/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0506-relative-ranks](https://github.com/siddharth277/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
