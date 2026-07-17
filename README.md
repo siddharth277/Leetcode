@@ -45,6 +45,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharth277/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/siddharth277/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/siddharth277/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/siddharth277/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/siddharth277/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/siddharth277/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -236,6 +237,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/siddharth277/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharth277/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/siddharth277/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/siddharth277/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/siddharth277/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/siddharth277/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -507,6 +509,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/siddharth277/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/siddharth277/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/siddharth277/Leetcode/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/siddharth277/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharth277/Leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddharth277/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1154-day-of-the-year](https://github.com/siddharth277/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
