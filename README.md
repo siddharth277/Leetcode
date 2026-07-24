@@ -279,6 +279,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddharth277/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/siddharth277/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/siddharth277/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 | Problem Name | Difficulty |
@@ -424,6 +425,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/siddharth277/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/siddharth277/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/siddharth277/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/siddharth277/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/siddharth277/Leetcode/tree/master/0342-power-of-four) |
