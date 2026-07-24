@@ -280,6 +280,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddharth277/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/siddharth277/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/siddharth277/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/siddharth277/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 | Problem Name | Difficulty |
@@ -582,6 +583,7 @@
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddharth277/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/siddharth277/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/siddharth277/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/siddharth277/Leetcode/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/siddharth277/Leetcode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
