@@ -99,6 +99,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/siddharth277/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/siddharth277/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siddharth277/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/siddharth277/Leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/siddharth277/Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharth277/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/siddharth277/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -262,6 +263,7 @@
 | [2729-check-if-the-number-is-fascinating](https://github.com/siddharth277/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/siddharth277/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/siddharth277/Leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/siddharth277/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3945-digit-frequency-score](https://github.com/siddharth277/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Heap (Priority Queue)
@@ -284,6 +286,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/siddharth277/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/siddharth277/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/siddharth277/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/siddharth277/Leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
