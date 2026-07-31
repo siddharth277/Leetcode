@@ -181,6 +181,7 @@
 | [1512-number-of-good-pairs](https://github.com/siddharth277/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/siddharth277/Leetcode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/siddharth277/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth277/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +231,7 @@
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/siddharth277/Leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/siddharth277/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/siddharth277/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth277/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -264,6 +266,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/siddharth277/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/siddharth277/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth277/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/siddharth277/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/siddharth277/Leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/siddharth277/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -512,6 +515,7 @@
 | [2578-split-with-minimum-sum](https://github.com/siddharth277/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/siddharth277/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/siddharth277/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth277/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3024-type-of-triangle](https://github.com/siddharth277/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/siddharth277/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/siddharth277/Leetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -553,6 +557,7 @@
 | [2490-circular-sentence](https://github.com/siddharth277/Leetcode/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/siddharth277/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/siddharth277/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth277/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/siddharth277/Leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/siddharth277/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/siddharth277/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
