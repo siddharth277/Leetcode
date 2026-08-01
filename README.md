@@ -290,6 +290,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/siddharth277/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/siddharth277/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/siddharth277/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/siddharth277/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/siddharth277/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/siddharth277/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/siddharth277/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -442,6 +443,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/siddharth277/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/siddharth277/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/siddharth277/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/siddharth277/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/siddharth277/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/siddharth277/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/siddharth277/Leetcode/tree/master/0342-power-of-four) |
