@@ -69,6 +69,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddharth277/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddharth277/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharth277/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/siddharth277/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/siddharth277/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1534-count-good-triplets](https://github.com/siddharth277/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/siddharth277/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -437,6 +438,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/siddharth277/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/siddharth277/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/siddharth277/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/siddharth277/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/siddharth277/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
