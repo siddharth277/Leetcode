@@ -56,6 +56,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siddharth277/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddharth277/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/siddharth277/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/siddharth277/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -506,6 +507,7 @@
 | [0561-array-partition](https://github.com/siddharth277/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/siddharth277/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/siddharth277/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/siddharth277/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -609,6 +611,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddharth277/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/siddharth277/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/siddharth277/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/siddharth277/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0969-pancake-sorting](https://github.com/siddharth277/Leetcode/tree/master/0969-pancake-sorting) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddharth277/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
