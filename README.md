@@ -68,6 +68,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddharth277/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddharth277/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharth277/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/siddharth277/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1534-count-good-triplets](https://github.com/siddharth277/Leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/siddharth277/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -286,6 +287,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddharth277/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/siddharth277/Leetcode/tree/main/0506-relative-ranks/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharth277/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/siddharth277/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -518,6 +520,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/siddharth277/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/siddharth277/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddharth277/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddharth277/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/siddharth277/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/siddharth277/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/siddharth277/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
