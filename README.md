@@ -567,6 +567,7 @@
 | [0389-find-the-difference](https://github.com/siddharth277/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/siddharth277/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/siddharth277/Leetcode/tree/main/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/siddharth277/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0500-keyboard-row](https://github.com/siddharth277/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharth277/Leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddharth277/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
