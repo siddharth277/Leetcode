@@ -334,6 +334,7 @@
 | [0367-valid-perfect-square](https://github.com/siddharth277/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/siddharth277/Leetcode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/siddharth277/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/siddharth277/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/siddharth277/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/siddharth277/Leetcode/tree/master/0509-fibonacci-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharth277/Leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
@@ -475,6 +476,7 @@
 | [0067-add-binary](https://github.com/siddharth277/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/siddharth277/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/siddharth277/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/siddharth277/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharth277/Leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [1518-water-bottles](https://github.com/siddharth277/Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/siddharth277/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -564,6 +566,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/siddharth277/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/siddharth277/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/siddharth277/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/siddharth277/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0500-keyboard-row](https://github.com/siddharth277/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharth277/Leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddharth277/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
