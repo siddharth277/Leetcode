@@ -99,6 +99,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/siddharth277/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/siddharth277/Leetcode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/siddharth277/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/siddharth277/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/siddharth277/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/siddharth277/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/siddharth277/Leetcode/tree/master/2951-find-the-peaks) |
@@ -278,6 +279,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/siddharth277/Leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/siddharth277/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/siddharth277/Leetcode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/siddharth277/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/siddharth277/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth277/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/siddharth277/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -486,6 +488,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/siddharth277/Leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/siddharth277/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/siddharth277/Leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/siddharth277/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3100-water-bottles-ii](https://github.com/siddharth277/Leetcode/tree/main/3100-water-bottles-ii/) | Medium |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/siddharth277/Leetcode/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/siddharth277/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
@@ -586,6 +589,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/siddharth277/Leetcode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2490-circular-sentence](https://github.com/siddharth277/Leetcode/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/siddharth277/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/siddharth277/Leetcode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2942-find-words-containing-character](https://github.com/siddharth277/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddharth277/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/siddharth277/Leetcode/tree/main/3227-vowels-game-in-a-string/) | Medium |
