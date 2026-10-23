@@ -51,6 +51,7 @@
 | [0506-relative-ranks](https://github.com/siddharth277/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddharth277/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/siddharth277/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/siddharth277/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddharth277/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/siddharth277/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/siddharth277/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -266,6 +267,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharth277/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/siddharth277/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/siddharth277/Leetcode/tree/main/0500-keyboard-row/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/siddharth277/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0888-fair-candy-swap](https://github.com/siddharth277/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/siddharth277/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/siddharth277/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -577,6 +579,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/siddharth277/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0500-keyboard-row](https://github.com/siddharth277/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharth277/Leetcode/tree/main/0592-fraction-addition-and-subtraction/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/siddharth277/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddharth277/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1154-day-of-the-year](https://github.com/siddharth277/Leetcode/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/siddharth277/Leetcode/tree/master/1189-maximum-number-of-balloons) |
